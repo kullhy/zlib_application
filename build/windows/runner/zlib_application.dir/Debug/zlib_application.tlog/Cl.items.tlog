@@ -1,0 +1,5 @@
+D:\.mingroup\.Project\zlib_application\windows\runner\flutter_window.cpp;D:\.mingroup\.Project\zlib_application\build\windows\runner\zlib_application.dir\Debug\flutter_window.obj
+D:\.mingroup\.Project\zlib_application\windows\runner\main.cpp;D:\.mingroup\.Project\zlib_application\build\windows\runner\zlib_application.dir\Debug\main.obj
+D:\.mingroup\.Project\zlib_application\windows\runner\utils.cpp;D:\.mingroup\.Project\zlib_application\build\windows\runner\zlib_application.dir\Debug\utils.obj
+D:\.mingroup\.Project\zlib_application\windows\runner\win32_window.cpp;D:\.mingroup\.Project\zlib_application\build\windows\runner\zlib_application.dir\Debug\win32_window.obj
+D:\.mingroup\.Project\zlib_application\windows\flutter\generated_plugin_registrant.cc;D:\.mingroup\.Project\zlib_application\build\windows\runner\zlib_application.dir\Debug\generated_plugin_registrant.obj

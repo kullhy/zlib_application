@@ -1,0 +1,8 @@
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/icudtl.dat
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/flutter_windows.dll
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/.mingroup/.Project/zlib_application/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
